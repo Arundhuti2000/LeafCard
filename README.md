@@ -249,7 +249,7 @@ This project is licensed under the MIT License.
 - Knot API for merchant integrations
 - Lucide React for beautiful icons
 - Tailwind CSS for styling utilities
-- Next.js team for the amazing framework
+- Next.js team for the framework
 
 ## 📞 Support
 
@@ -257,4 +257,4 @@ For questions or issues, please open an issue on GitHub or contact the developme
 
 ---
 
-Built with 💚 for a more sustainable future
+Built for a more sustainable future
